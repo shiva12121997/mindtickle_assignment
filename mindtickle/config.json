@@ -1,0 +1,16 @@
+{   "pgs" :
+        {
+                "db":"mt-pg",
+                "user":"user",
+                "host":"localhost",
+                "pass":"password",
+                "port":5432
+        },
+    "mysql":
+        {
+            "db":"mt-mysql",
+            "user":"root",
+            "host":"127.0.0.1",
+            "pass":"password"
+        }
+}
