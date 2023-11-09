@@ -10,5 +10,7 @@ Clone the repository and follow the below steps:
 Required Lib:
 
 pip install mysql-connector-python
+
 pip install psycopg2
+
 pip install pandas
