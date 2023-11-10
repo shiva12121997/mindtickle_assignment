@@ -14,3 +14,9 @@ pip install mysql-connector-python
 pip install psycopg2
 
 pip install pandas
+
+Extras:
+
+1. Instead of config we can use env file to save our password and username.
+2. As I don't have azure account I created a function to create blob connection but commented it.
+   
